@@ -1,14 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Carter Bekcstead</title>
+<title>IT&C_Lab_9</title>
+<link rel="stylesheet" href="style.css"/>
 </head>
 <body>
-<h1>About Me</h1>
-<img src=""/>
-<h2>Experience</h2>
-<h2>Education</h2>
-<h2>Projects</h2>
-
+<h1>Stripling Firewalls
+</h1>
+<img style="height: 10em;"src="StriplingFirewallsLogo.png"/>
+<h2>Mission</h2>
+<p>"To forge the next generation of cybersecurity defenders through rigorous testing, relentless curiosity, and principled exploration. Stripling Firewalls exists to transform raw talent into battle-ready specialists, ensuring that the digital front lines of tomorrow are held by those who have been tested in the fires of today."</p>
+<h2>Team</h2>
+<h3>Matt Pollock</h3>
+<img style="height: 5em;"src="Matt_Avatar.png"/>
+<p>As the team's "Stag" of stability, Matt specializes in Network Infrastructure and Active Directory security. His keen antlers represent his ability to detect subtle "vibrations" in network traffic, allowing him to navigate complex corporate environments and identify misconfigurations before they can be exploited.</p>
+<h3>Carter Beckstead</h3>
+<img style="height: 5em;"src="Carter_Avatar.png"/>
+<p>Taking the "high-ground" view of the operation, Carter focuses on Cloud Security and External Perimeter Defense. His elevated perspective allows him to see over the horizon, anticipating incoming threats and ensuring that the Stripling Firewalls maintain a 360-degree awareness of their digital landscape.</p>
+<h3>Chelsea Timmerman</h3>
+<img style="height: 5em;"src="Chelsea_Avatar.png"/>
+<p>Don't let the speed fool you; Chelsea is the team’s Web Application Penetration Tester and Social Engineer. Her agility allows her to hop between complex JavaScript vulnerabilities and API flaws, rapidly identifying entry points that more "lumbering" attackers might overlook in a time-sensitive engagement.</p>
+<h3>Libby Nichols</h3>
+<img style="height: 5em;"src="Libby_Avatar.png"/>
+<p>Operating with a unique "regenerative" mindset, Libby specializes in Incident Response and Digital Forensics. Like the axolotl, she is adept at surviving in high-pressure "underwater" environments, meticulously piecing together evidence from memory dumps and logs to understand how a breach occurred and how to heal the system.</p>
+<p><script>document.write(new Date().toLocaleString())</script></p>
 </body>
 </html>
